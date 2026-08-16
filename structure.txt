@@ -1,0 +1,14 @@
+local/
+└─ clicksws/
+   ├─ version.php
+   ├─ README.md
+   ├─ db/
+   │  └─ services.php
+   ├─ classes/
+   │  └─ external/
+   │     └─ clicks.php
+   └─ lang/
+      ├─ en/
+      │  └─ local_clicksws.php
+      └─ fr/
+         └─ local_clicksws.php
